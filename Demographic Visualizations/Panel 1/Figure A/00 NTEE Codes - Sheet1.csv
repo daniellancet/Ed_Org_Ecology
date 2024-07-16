@@ -1,0 +1,102 @@
+,ntee_irs,Main_Category,Broader Code,Broadest Code,count
+0,B01,Advocacy,Research/Advocacy,School Improvement Org,5465
+1,B012,Advocacy,Research/Advocacy,School Improvement Org,168
+2,B014,Advocacy,Research/Advocacy,School Improvement Org,16
+3,B015,Advocacy,Research/Advocacy,School Improvement Org,1
+4,B016,Advocacy,Research/Advocacy,School Improvement Org,5
+5,B017,Advocacy,Research/Advocacy,School Improvement Org,4
+6,B018,Advocacy,Research/Advocacy,School Improvement Org,10
+7,B019,Advocacy,Research/Advocacy,School Improvement Org,20
+8,B02,Technical Assistance,School Support,School Improvement Org,1187
+9,B022,Technical Assistance,School Support,School Improvement Org,79
+10,B023,Technical Assistance,School Support,School Improvement Org,6
+11,B024,Technical Assistance,School Support,School Improvement Org,23
+12,B025,Technical Assistance,School Support,School Improvement Org,2
+13,B026,Technical Assistance,School Support,School Improvement Org,4
+14,B027,Technical Assistance,School Support,School Improvement Org,22
+15,B028,Technical Assistance,School Support,School Improvement Org,10
+16,B029,Technical Assistance,School Support,School Improvement Org,16
+17,B03,Professional Association,Association,Associational Org,14122
+18,B032,Professional Association,Association,Associational Org,250
+19,B033,Professional Association,Association,Associational Org,53
+20,B034,Professional Association,Association,Associational Org,273
+21,B035,Professional Association,Association,Associational Org,18
+22,B036,Professional Association,Association,Associational Org,74
+23,B037,Professional Association,Association,Associational Org,66
+24,B038,Professional Association,Association,Associational Org,168
+25,B039,Professional Association,Association,Associational Org,87
+26,B05,Research,Research/Advocacy,School Improvement Org,985
+27,B052,Research,Research/Advocacy,School Improvement Org,33
+28,B053,Research,Research/Advocacy,School Improvement Org,2
+29,B054,Research,Research/Advocacy,School Improvement Org,12
+30,B057,Research,Research/Advocacy,School Improvement Org,2
+31,B058,Research,Research/Advocacy,School Improvement Org,9
+32,B059,Research,Research/Advocacy,School Improvement Org,10
+33,B09,Education Services,School Support,School Improvement Org,2
+34,B11,Single Support Fundraising,Fundraising,School Improvement Org,16923
+35,B112,Single Support Fundraising,Fundraising,School Improvement Org,7424
+36,B113,Single Support Fundraising,Fundraising,School Improvement Org,33
+37,B114,Single Support Fundraising,Fundraising,School Improvement Org,727
+38,B115,Single Support Fundraising,Fundraising,School Improvement Org,50
+39,B116,Single Support Fundraising,Fundraising,School Improvement Org,18
+40,B117,Single Support Fundraising,Fundraising,School Improvement Org,2924
+41,B118,Single Support Fundraising,Fundraising,School Improvement Org,134
+42,B119,Single Support Fundraising,Fundraising,School Improvement Org,86
+43,B12,Fundraising,Fundraising,School Improvement Org,9400
+44,B122,Fundraising,Fundraising,School Improvement Org,660
+45,B123,Fundraising,Fundraising,School Improvement Org,13
+46,B124,Fundraising,Fundraising,School Improvement Org,75
+47,B125,Fundraising,Fundraising,School Improvement Org,6
+48,B126,Fundraising,Fundraising,School Improvement Org,9
+49,B127,Fundraising,Fundraising,School Improvement Org,62
+50,B128,Fundraising,Fundraising,School Improvement Org,93
+51,B129,Fundraising,Fundraising,School Improvement Org,30
+52,B19,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,2024
+53,B192,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,275
+54,B193,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,8
+55,B194,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,54
+56,B195,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,9
+57,B196,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,5
+58,B197,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,22
+59,B198,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,22
+60,B199,Support NEC,Not Elsewhere Classified,Not Elsewhere Classified,1
+61,B2,K-12 Schools,P-12 Schools,Educational Institutions,7
+62,B20,K-12 Schools,P-12 Schools,Educational Institutions,8737
+63,B21,Preschools,P-12 Schools,Educational Institutions,4039
+64,B23,Preschools,P-12 Schools,Educational Institutions,1
+65,B24,Elementary Schools,P-12 Schools,Educational Institutions,2956
+66,B25,High Schools,P-12 Schools,Educational Institutions,2731
+67,B26,Special Education,P-12 Schools,Educational Institutions,9
+68,B28,Special Education,P-12 Schools,Educational Institutions,2616
+69,B29,Charter Schools,P-12 Schools,Educational Institutions,3044
+70,B30,Vocational Schools,Postsecondary,Educational Institutions,1477
+71,B40,Higher Education,Postsecondary,Educational Institutions,834
+72,B41,Two-Year Colleges,Postsecondary,Educational Institutions,181
+73,B42,Undergraduate Colleges,Postsecondary,Educational Institutions,841
+74,B43,Universities,Postsecondary,Educational Institutions,1707
+75,B50,Graduate and Professional Schools,Postsecondary,Educational Institutions,908
+76,B58,Graduate and Professional Schools,Postsecondary,Educational Institutions,1
+77,B60,Adult Education,Postsecondary,Educational Institutions,5172
+78,B62,Adult Education,Postsecondary,Educational Institutions,1
+79,B70,Libraries,Libraries,Educational Institutions,3938
+80,B704,Libraries,Libraries,Educational Institutions,5
+81,B71,Libraries,Libraries,Educational Institutions,249
+82,B72,Libraries,Libraries,Educational Institutions,4
+83,B80,Student Services,School Support,School Improvement Org,5911
+84,B804,Student Services,School Support,School Improvement Org,83
+85,B805,Student Services,School Support,School Improvement Org,6
+86,B82,Scholarship,Scholarship,School Improvement Org,30109
+87,B824,Scholarship,Scholarship,School Improvement Org,48
+88,B825,Scholarship,Scholarship,School Improvement Org,6
+89,B83,Fraternities,Association,Associational Org,26585
+90,B834,Fraternities,Association,Associational Org,1535
+91,B84,Alumni Association,Association,Associational Org,5888
+92,B844,Alumni Association,Association,Associational Org,768
+93,B845,Alumni Association,Association,Associational Org,31
+94,B9,Education Services,School Support,School Improvement Org,11
+95,B90,Education Services,School Support,School Improvement Org,20456
+96,B91,Education Services,School Support,School Improvement Org,1
+97,B92,Remedial Reading,School Support,School Improvement Org,1784
+98,B92J,Remedial Reading,School Support,School Improvement Org,65
+99,B94,Parent Teacher Groups,Parent Teacher Groups,Associational Org,36173
+100,B99,Not Elsewhere Classified,Not Elsewhere Classified,Not Elsewhere Classified,688
